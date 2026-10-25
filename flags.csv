@@ -1,0 +1,201 @@
+station_id,channel,start_utc,end_utc,issue,action,note
+S01,metadata,2025-03-06 01:00,2025-03-06 01:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-07 13:00,2025-03-07 13:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-09 01:00,2025-03-09 01:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-10 23:00,2025-03-10 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-13 23:00,2025-03-13 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-14 14:00,2025-03-14 14:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-15 11:00,2025-03-15 11:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-21 14:00,2025-03-21 14:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-21 18:00,2025-03-21 18:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-22 12:00,2025-03-22 12:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-03-30 09:00,2025-03-30 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-04-06 19:00,2025-04-06 19:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-04-09 09:00,2025-04-09 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S01,metadata,2025-04-10 19:00,2025-04-10 19:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-02 02:00,2025-03-02 02:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-03 07:00,2025-03-03 07:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-04 00:00,2025-03-04 00:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-06 13:00,2025-03-06 13:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-07 05:00,2025-03-07 08:00,GPS void/malformed fixes,exclude,"2 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-08 03:00,2025-03-08 03:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-12 01:00,2025-03-12 01:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-13 05:00,2025-03-13 05:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-13 12:00,2025-03-13 12:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-14 09:00,2025-03-14 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-18 20:00,2025-03-18 20:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-21 15:00,2025-03-21 15:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,pressure_hpa,2025-03-21 17:20,2025-03-21 17:20,Abrupt pressure step,exclude,1 pressure changes exceed 4 hPa per 10 minutes; possible board offset or logger discontinuity.
+S02,metadata,2025-03-23 20:00,2025-03-23 20:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-26 09:00,2025-03-26 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-28 08:00,2025-03-28 08:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-03-29 07:00,2025-03-29 07:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S02,metadata,2025-04-01 08:00,2025-04-01 08:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-03-05 01:00,2025-03-05 01:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,temp_c,2025-03-05 14:20,2025-03-05 14:30,Abrupt temperature jump,exclude,2 jumps exceed 12 °C in 10 minutes; evaluate adjacent readings for corruption.
+S03,metadata,2025-03-05 16:00,2025-03-05 16:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,temp_c,2025-03-12 03:40,2025-03-12 03:50,Abrupt temperature jump,exclude,2 jumps exceed 12 °C in 10 minutes; evaluate adjacent readings for corruption.
+S03,temp_c,2025-03-12 03:40,2025-03-12 03:40,Outside physical plausibility bounds,exclude,1 readings outside declared -60–60 temp_c limits; values cannot be used as observed.
+S03,metadata,2025-03-17 18:00,2025-03-17 18:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,temp_c,2025-03-18 06:00,2025-03-21 14:00,Prolonged exact-value flatline,exclude,481 consecutive values equal 6.5; improbable for this varying sensor.
+S03,metadata,2025-03-19 09:00,2025-03-19 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-03-19 18:00,2025-03-19 18:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-03-21 02:00,2025-03-21 02:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-03-26 14:00,2025-03-26 14:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-03-29 10:00,2025-03-29 10:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-03-30 03:00,2025-03-30 03:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-04-02 14:00,2025-04-02 14:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,temp_c,2025-04-02 22:10,2025-04-02 22:20,Abrupt temperature jump,exclude,2 jumps exceed 12 °C in 10 minutes; evaluate adjacent readings for corruption.
+S03,metadata,2025-04-04 14:00,2025-04-04 14:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-04-05 16:00,2025-04-05 16:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,metadata,2025-04-06 17:00,2025-04-06 17:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S03,temp_c,2025-04-08 09:50,2025-04-08 10:00,Abrupt temperature jump,exclude,2 jumps exceed 12 °C in 10 minutes; evaluate adjacent readings for corruption.
+S03,temp_c,2025-04-08 09:50,2025-04-08 09:50,Outside physical plausibility bounds,exclude,1 readings outside declared -60–60 temp_c limits; values cannot be used as observed.
+S04,metadata,2025-03-02 07:00,2025-03-02 07:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-02 15:00,2025-03-02 15:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-03 11:00,2025-03-03 11:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-03 15:00,2025-03-03 15:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-03 22:00,2025-03-03 22:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-04 22:00,2025-03-04 22:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-07 10:00,2025-03-07 10:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-12 13:00,2025-03-12 14:00,GPS void/malformed fixes,exclude,"2 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-14 03:00,2025-03-14 06:00,GPS void/malformed fixes,exclude,"2 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-15 05:00,2025-03-15 05:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-16 01:00,2025-03-16 01:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-19 00:00,2025-03-19 00:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-19 14:00,2025-03-19 14:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-21 15:00,2025-03-21 15:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-24 07:00,2025-03-24 07:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-25 23:00,2025-03-26 00:00,GPS void/malformed fixes,exclude,"2 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-30 23:00,2025-03-30 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-31 18:00,2025-03-31 18:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-03-31 23:00,2025-03-31 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-04-02 02:00,2025-04-02 02:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,rain_mm,2025-04-02 16:10,2025-04-02 16:30,Unusually large 10-minute rainfall,keep,3 interval(s) >8 mm; check gauge condition and neighbouring rain before deciding exclusion.
+S04,metadata,2025-04-02 21:00,2025-04-02 21:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-04-04 17:00,2025-04-04 17:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S04,metadata,2025-04-10 05:00,2025-04-10 05:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-01 00:00,2025-04-11 23:00,GPS installation mismatch,exclude,"1147 Valid GPS coordinates are >1 km from installation sheet; verify installation/receiver, not weather values. Peak 20.5 km."
+S05,metadata,2025-03-02 23:00,2025-03-02 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-03 16:00,2025-03-03 16:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-06 03:00,2025-03-06 03:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-06 23:00,2025-03-06 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,rh_pct,2025-03-07 12:10,2025-03-07 12:10,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 13:30,2025-03-07 13:30,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 14:00,2025-03-07 14:00,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 14:30,2025-03-07 14:30,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 15:00,2025-03-07 15:00,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 15:40,2025-03-07 15:40,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 16:00,2025-03-07 16:00,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 16:30,2025-03-07 16:30,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 16:50,2025-03-07 17:00,Outside physical plausibility bounds,exclude,2 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 17:50,2025-03-07 17:50,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 18:00,2025-03-07 22:20,Daytime humidity saturation,keep,27 readings at >=99% RH while sunlight exceeds 300 W/m²; inspect humidity calibration; fog or wet sensor remains possible.
+S05,rh_pct,2025-03-07 18:20,2025-03-07 18:20,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 18:50,2025-03-07 18:50,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 19:10,2025-03-07 19:30,Outside physical plausibility bounds,exclude,3 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 20:00,2025-03-07 20:00,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 20:30,2025-03-07 20:30,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 20:50,2025-03-07 20:50,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 21:10,2025-03-07 21:40,Outside physical plausibility bounds,exclude,4 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-07 22:40,2025-03-07 23:40,Outside physical plausibility bounds,exclude,7 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 00:10,2025-03-08 00:40,Outside physical plausibility bounds,exclude,4 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 01:00,2025-03-08 01:00,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 01:20,2025-03-08 02:10,Outside physical plausibility bounds,exclude,6 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 02:30,2025-03-08 02:30,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 02:50,2025-03-08 02:50,Outside physical plausibility bounds,exclude,1 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 03:10,2025-03-08 05:50,Outside physical plausibility bounds,exclude,17 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 06:10,2025-03-08 06:30,Outside physical plausibility bounds,exclude,3 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 06:50,2025-03-08 07:00,Outside physical plausibility bounds,exclude,2 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 07:30,2025-03-08 08:50,Outside physical plausibility bounds,exclude,9 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 09:10,2025-03-08 12:50,Outside physical plausibility bounds,exclude,23 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 13:10,2025-03-11 00:00,Outside physical plausibility bounds,exclude,354 readings outside declared 0–100 rh_pct limits; values cannot be used as observed.
+S05,rh_pct,2025-03-08 15:10,2025-03-08 23:10,Daytime humidity saturation,keep,49 readings at >=99% RH while sunlight exceeds 300 W/m²; inspect humidity calibration; fog or wet sensor remains possible.
+S05,rh_pct,2025-03-09 15:10,2025-03-09 23:00,Daytime humidity saturation,keep,48 readings at >=99% RH while sunlight exceeds 300 W/m²; inspect humidity calibration; fog or wet sensor remains possible.
+S05,metadata,2025-03-10 00:00,2025-03-10 00:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-10 15:00,2025-03-10 15:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,rh_pct,2025-03-10 15:10,2025-03-10 23:10,Daytime humidity saturation,keep,48 readings at >=99% RH while sunlight exceeds 300 W/m²; inspect humidity calibration; fog or wet sensor remains possible.
+S05,metadata,2025-03-11 06:00,2025-03-11 06:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-12 09:00,2025-03-12 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-14 12:00,2025-03-14 14:00,GPS void/malformed fixes,exclude,"2 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-18 02:00,2025-03-18 02:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-21 05:00,2025-03-21 05:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-23 12:00,2025-03-23 12:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-25 01:00,2025-03-25 01:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-26 02:00,2025-03-26 02:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-26 21:00,2025-03-26 21:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-27 08:00,2025-03-27 08:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-28 05:00,2025-03-28 05:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-03-31 17:00,2025-03-31 17:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-04-01 04:00,2025-04-01 04:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-04-01 22:00,2025-04-01 22:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-04-07 02:00,2025-04-07 02:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-04-08 11:00,2025-04-08 11:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-04-09 17:00,2025-04-09 17:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S05,metadata,2025-04-09 22:00,2025-04-09 22:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,all,2025-03-01 00:00,2025-04-11 17:50,Out-of-order logger records,keep,"Source rows are not ordered; sorted chronologically for checking, with raw records unchanged."
+S06,metadata,2025-03-01 22:00,2025-03-01 22:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-03 20:00,2025-03-03 20:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-04 11:00,2025-03-04 11:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-04 21:00,2025-03-04 21:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-07 23:00,2025-03-07 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-08 23:00,2025-03-08 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-10 14:00,2025-03-10 14:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-11 23:00,2025-03-11 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-12 04:00,2025-03-12 04:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-13 11:00,2025-03-13 11:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-15 13:00,2025-03-15 14:00,GPS void/malformed fixes,exclude,"2 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-15 23:00,2025-03-15 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-18 17:00,2025-03-18 17:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-20 19:00,2025-03-20 19:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,all,2025-03-24 10:10,2025-03-24 16:00,Duplicate logger timestamps,exclude,72 records share timestamps; retain one only after confirming which readings are original.
+S06,pressure_hpa,2025-03-24 10:20,2025-03-24 14:20,Abrupt pressure step,exclude,25 pressure changes exceed 4 hPa per 10 minutes; possible board offset or logger discontinuity.
+S06,temp_c,2025-03-24 10:20,2025-03-24 14:30,Abrupt temperature jump,exclude,26 jumps exceed 12 °C in 10 minutes; evaluate adjacent readings for corruption.
+S06,metadata,2025-03-24 11:00,2025-04-11 17:00,GPS/logger clock disagreement,exclude,509 Absolute logger-to-NMEA UTC discrepancy >120 seconds; verify logger clock alignment before aggregating. Peak 21600 s.
+S06,metadata,2025-03-24 19:00,2025-03-24 19:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-30 08:00,2025-03-30 08:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S06,metadata,2025-03-30 19:00,2025-03-30 19:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-03 06:00,2025-03-03 06:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-04 13:00,2025-03-04 13:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-05 23:00,2025-03-05 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-06 17:00,2025-03-06 17:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-08 22:00,2025-03-08 22:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-09 09:00,2025-03-09 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-11 05:00,2025-03-11 05:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-11 09:00,2025-03-11 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-13 05:00,2025-03-13 05:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-14 06:00,2025-03-14 08:00,GPS void/malformed fixes,exclude,"2 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-16 23:00,2025-03-16 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-19 08:00,2025-03-19 08:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-20 12:00,2025-03-20 12:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-21 07:00,2025-03-21 07:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-26 20:00,2025-03-26 20:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-29 02:00,2025-03-29 02:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-30 02:00,2025-03-30 02:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-03-31 21:00,2025-03-31 21:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-04-01 23:00,2025-04-01 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-04-08 00:00,2025-04-08 00:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-04-09 23:00,2025-04-09 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-04-11 11:00,2025-04-11 11:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S07,metadata,2025-04-11 16:00,2025-04-11 16:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,all,2025-03-01 00:00,2025-04-11 23:50,Out-of-order logger records,keep,"Source rows are not ordered; sorted chronologically for checking, with raw records unchanged."
+S08,metadata,2025-03-02 03:00,2025-03-02 03:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-02 22:00,2025-03-02 22:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-03 11:00,2025-03-03 11:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-07 03:00,2025-03-07 03:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-07 23:00,2025-03-07 23:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-14 01:00,2025-03-14 01:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,all,2025-03-16 14:00,2025-03-18 01:30,Missing logger intervals,exclude,214 expected 10-minute observations absent; do not fill unobserved weather.
+S08,metadata,2025-03-18 09:00,2025-03-18 09:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-21 01:00,2025-03-21 01:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-22 04:00,2025-03-22 04:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-23 15:00,2025-03-23 17:00,GPS void/malformed fixes,exclude,"3 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-25 07:00,2025-03-25 07:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-28 18:00,2025-03-28 18:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-03-31 05:00,2025-03-31 05:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-04-02 00:00,2025-04-02 00:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-04-02 20:00,2025-04-02 20:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-04-04 22:00,2025-04-05 01:00,GPS void/malformed fixes,exclude,"3 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,all,2025-04-05 00:00,2025-04-05 23:50,Duplicate logger timestamps,exclude,288 records share timestamps; retain one only after confirming which readings are original.
+S08,metadata,2025-04-07 15:00,2025-04-07 15:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
+S08,metadata,2025-04-10 03:00,2025-04-10 03:00,GPS void/malformed fixes,exclude,"1 NMEA fix invalid, void or malformed; location and time reference unavailable for these records."
